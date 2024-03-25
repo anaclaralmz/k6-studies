@@ -15,6 +15,7 @@
   - detectar gargalos de desempenho;
   - garantir que a aplicação possa lidar com sua carga prevista de forma eficiente e confiável.
 ### Resultados e Relatório gerado
+Resultado: o teste passou com sucesso.
 ![output](./assets/output.png)
 - Foi utilizado a ferramenta K6 HTML Report Exporter para gerar um relatório visual com os resultados dos testes desenvolvidos.
 - Docs completa da API utilizada: https://github.com/benc-uk/k6-reporter
