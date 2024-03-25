@@ -1,6 +1,7 @@
 # testes com K6
 - Os testes de carga aqui documentados foram desenvolvidos junto com o Bruno Meira, visto que realizamos esses testes como parte do entregável do projeto na sprint 4. Logo, os testes são os mesmos, mas a realização da documentação e conceitos aprendidos foi feita de forma individual.
 - Endpoint escolhido: POST de distribuições
+- Teste: 30 minutos e carga de 10000 usuários.
 ## 1. Tecnologias utilizadas
 - K6:
   - Ferramenta utilizada para a realização de testes de carga
@@ -14,8 +15,8 @@
   - detectar gargalos de desempenho;
   - garantir que a aplicação possa lidar com sua carga prevista de forma eficiente e confiável.
 ### Resultados e Relatório gerado
+![output](./assets/output.png)
 - Foi utilizado a ferramenta K6 HTML Report Exporter para gerar um relatório visual com os resultados dos testes desenvolvidos.
 - Docs completa da API utilizada: https://github.com/benc-uk/k6-reporter
-
 ![k6](./assets/img1.png)
 ![k6](./assets/img2.png)
