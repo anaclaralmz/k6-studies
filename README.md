@@ -1,5 +1,5 @@
 # testes com K6
-- Os testes de carga aqui documentados foram desenvolvidos junto com o Bruno Meira, visto que realizamos esses testes como parte do entregável do projeto na sprint 4. Logo, os testes são os mesmos, mas a realização da documentação e conceitos aprendidos foi feita de forma individual.
+- Contexto: testes de carga realizados para o projeto de Automatização de testes do módulo 9 de Eng de Software do Inteli.
 - Endpoint escolhido: POST de distribuições
 - Teste: 30 minutos e carga de 10000 usuários.
 ## 1. Tecnologias utilizadas
